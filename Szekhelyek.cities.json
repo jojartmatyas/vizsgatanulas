@@ -1,0 +1,304 @@
+[{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63d1"
+  },
+  "megye": "Baranya",
+  "megyeSzekhely": "Pécs",
+  "lakossag": 3860000,
+  "varoshaza": "https://pecs.hu/app/uploads/2023/01/varoshaza-tavoli.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.059Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T15:07:20.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63d3"
+  },
+  "megye": "Bács-Kiskun",
+  "megyeSzekhely": "Kecskemét",
+  "lakossag": 491632,
+  "varoshaza": "https://kecskemet.hu/assets/cache/images/a6/a6cc66cac2a9db650b50617f62c56e67.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.093Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63d5"
+  },
+  "megye": "Békés",
+  "megyeSzekhely": "Békéscsaba",
+  "lakossag": 310912,
+  "varoshaza": "https://visitbekescsaba.com/web/content/media/2019/12/V%C3%A1rosh%C3%A1za_S-1024x576.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.119Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63d7"
+  },
+  "megye": "Borsod-Abaúj-Zemplén",
+  "megyeSzekhely": "Miskolc",
+  "lakossag": 753497,
+  "varoshaza": "https://i.szalas.hu/pois/7261/original/20237.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.148Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63d9"
+  },
+  "megye": "Csongrád-Csanád",
+  "megyeSzekhely": "Szeged",
+  "lakossag": 417456,
+  "varoshaza": "https://varoshaza.szegedvaros.hu/wp-content/uploads/2023/11/DSC03958-Pano_1920x1640.png",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.173Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63db"
+  },
+  "megye": "Fejér",
+  "megyeSzekhely": "Székesfehérvár",
+  "lakossag": 425847,
+  "varoshaza": "https://i.szalas.hu/pois/173/original/87371.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.198Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63dd"
+  },
+  "megye": "Győr-Moson-Sopron",
+  "megyeSzekhely": "Győr",
+  "lakossag": 447985,
+  "varoshaza": "https://e63nd3kx7rh.exactdn.com/wp-content/uploads/2024/10/Gyori-varoshaza.webp",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63df"
+  },
+  "megye": "Hajdú-Bihar",
+  "megyeSzekhely": "Debrecen",
+  "lakossag": 546721,
+  "varoshaza": "https://visitdebrecen.com/wp-content/uploads/2022/10/varoshaza-osz-min-1024x684.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.249Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63e1"
+  },
+  "megye": "Heves",
+  "megyeSzekhely": "Eger",
+  "lakossag": 308882,
+  "varoshaza": "https://i.szalas.hu/pois/7589/original/23689.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.281Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63e3"
+  },
+  "megye": "Jász-Nagykun-Szolnok",
+  "megyeSzekhely": "Szolnok",
+  "lakossag": 386594,
+  "varoshaza": "https://szolnokiertektar.hu/wp-content/uploads/2024/12/8R5A2685.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.305Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63e5"
+  },
+  "megye": "Komárom-Esztergom",
+  "megyeSzekhely": "Tatabánya",
+  "lakossag": 304568,
+  "varoshaza": "https://tatabanya.hu/files/Articles/headline_image/f2be3188-29fe-4bb5-ba45-7741ecee56ab.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.330Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63e7"
+  },
+  "megye": "Nógrád",
+  "megyeSzekhely": "Salgótarján",
+  "lakossag": 180469,
+  "varoshaza": "https://m.utisugo.hu/_Images/ismertetok/latnivalok/000968460_varoshaza.jpg.jpg_orig.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.354Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63e9"
+  },
+  "megye": "Pest",
+  "megyeSzekhely": "Budapest",
+  "lakossag": 1217476,
+  "varoshaza": "https://budapestpont.hu/wp-content/uploads/budfopolghiv.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.380Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63eb"
+  },
+  "megye": "Somogy",
+  "megyeSzekhely": "Kaposvár",
+  "lakossag": 317307,
+  "varoshaza": "https://i.szalas.hu/pois/4285/500x500/11927.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.404Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63ed"
+  },
+  "megye": "Szabolcs-Szatmár-Bereg",
+  "megyeSzekhely": "Nyíregyháza",
+  "lakossag": 559272,
+  "varoshaza": "https://nyiregyhaza.hu/uploads/images/image_750x_5f6c8bc7d55bd.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.434Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63ef"
+  },
+  "megye": "Tolna",
+  "megyeSzekhely": "Szekszárd",
+  "lakossag": 230361,
+  "varoshaza": "https://m.utisugo.hu/_Images/ismertetok/latnivalok/000240698_1.jpg.jpg_orig.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.463Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63f1"
+  },
+  "megye": "Vas",
+  "megyeSzekhely": "Szombathely",
+  "lakossag": 256629,
+  "varoshaza": "https://www.savariaforum.hu/img/2919_2746_koronav_varoshaza_20200318_nj3_2916_70447_n.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.487Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a547e9fa489e63cc63f3"
+  },
+  "megye": "Veszprém",
+  "megyeSzekhely": "Veszprém",
+  "lakossag": 351898,
+  "varoshaza": "https://veszprem.hu/wp-content/uploads/2024/09/varoshaza.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T12:29:59.515Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:29:59.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999c9bed975d9723a84422d"
+  },
+  "megye": "Megye",
+  "megyeSzekhely": "Hobbitfalva",
+  "lakossag": 458,
+  "varoshaza": "https://vjm.hu/wp-content/uploads/2017/08/shutterstock_625030943-foo.jpg",
+  "createdAt": {
+    "$date": "2026-02-21T15:05:34.328Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T15:05:34.328Z"
+  },
+  "__v": 0
+}]
